@@ -1,0 +1,8 @@
+opencv-python>=4.8
+numpy>=1.24
+scipy>=1.11
+
+# Required only for segment_image.py
+torch>=2.0
+transformers>=4.35
+Pillow>=10.0
