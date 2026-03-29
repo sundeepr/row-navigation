@@ -1,0 +1,17 @@
+# Videos and outputs
+*.MOV
+*.mov
+*.mp4
+*.avi
+
+# Virtual environment
+rnav/
+archvie/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
